@@ -1,3 +1,6 @@
+W&B: https://wandb.ai/gcontini-torres/nyc_airbnb
+Github: https://github.com/GusContini/build-ml-pipeline-for-short-term-rental-prices
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
